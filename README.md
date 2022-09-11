@@ -16,7 +16,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg](https://avatars.githubusercontent.com/u/105903466?s=400&u=453856be86ae07a1761b6782ad0919b4bea9af0f&v=4)
+![alt text](https://avatars.githubusercontent.com/u/105903466?s=400&u=453856be86ae07a1761b6782ad0919b4bea9af0f&v=4)
 
 <!-- Add your details -->
 
