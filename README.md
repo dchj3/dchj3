@@ -45,6 +45,9 @@ Managed and coordinate client audit plans and fieldwork including financial and 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
+##### RISE by Digital BCG (Boston Consulting Group) Academy
+Business & Data Analytics, Mar-2022 to Sep-2022
+
 ##### University of London/SIM Global Education 
 BSc ACCOUNTING and FINANCE (2nd Upper Honours), 2014 – 2017
 
@@ -67,12 +70,7 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
