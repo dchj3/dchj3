@@ -84,10 +84,10 @@ BSc ACCOUNTING and FINANCE (2nd Upper Honours), 2014 – 2017
 AWS Certified Cloud Practitioner Aug 2022 - Aug 2025
 
 ##### Achievements
-BCG RISE TOP 2 Churn Prediction Project
-BCG RISE TOP 2 Hypothesis Testing Project
-BCG RISE TOP 2 PowerBI Project
-BCG RISE TOP 2 Digital Essentials Group Project
+BCG RISE TOP 2 Churn Prediction Project <br>
+BCG RISE TOP 2 Hypothesis Testing Project <br>
+BCG RISE TOP 2 PowerBI Project <br>
+BCG RISE TOP 2 Digital Essentials Group Project <br>
 <!-- FEATURED Section Ends -->
 
 <!---
