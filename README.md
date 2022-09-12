@@ -63,7 +63,7 @@ BSc ACCOUNTING and FINANCE (2nd Upper Honours), 2014 – 2017
 <!-- Add your details -->
 
 #### Classification based projects
-![alt text](https://raw.githubusercontent.com/dchj3/Churn_Prediction/master/Topfeature.png)
+![alt text](https://github.com/dchj3/Churn_Prediction/blob/master/Top20features.JPG)
 
 1. EDA (includes addressing missing values and outliers)
 2. Feature Ideation
